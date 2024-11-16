@@ -1,6 +1,4 @@
-# Save the README content to a file
 
-readme_content = """
 # Analiza Regresji Liniowej w Pythonie
 
 ### Opis projektu
